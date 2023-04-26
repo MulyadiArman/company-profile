@@ -4,8 +4,12 @@ body{
     font-family: 'Quicksand', sans-serif;
 }
 
-.bg-dark{
-    background: #7952b3!important;
+.navbar-toggle {
+    background-color: black;
+}
+
+/* .bg-yellow{
+    background: #c1c774!important;
 }
 
 .breadcrumb {
@@ -14,7 +18,7 @@ body{
     padding: .5rem 1rem;
     margin-bottom: 1rem;
     list-style: none;
-    background-color: #7951b3;
+    background-color: #2b282f;
     border-radius: 0px!important;
 }
 
@@ -31,4 +35,4 @@ body{
 
 .breadcrumb-item.active {
     color: white;
-}
+} */
