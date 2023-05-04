@@ -4,6 +4,11 @@ body{
     font-family: 'Quicksand', sans-serif;
 }
 
+.product-item .img-card {
+    height: 250px;
+    object-fit: cover;
+  }
+
 .navbar-toggle {
     background-color: black;
 }
