@@ -4,9 +4,20 @@ body{
     font-family: 'Quicksand', sans-serif;
 }
 
+.product-item .img-card {
+    height: 250px;
+    object-fit: cover;
+}
+
 .navbar-toggle {
     background-color: black;
 }
+
+.modal-header .modal-body {
+    border: none;
+}
+
+
 
 /* .bg-yellow{
     background: #c1c774!important;
