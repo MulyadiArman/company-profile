@@ -1,3 +1,23 @@
+
+
+// const searchInput = document.querySelector('#search-input');
+// const searchButton = document.querySelector('#search-button');
+// const productItems = document.querySelectorAll('.product-item');
+
+// searchButton.addEventListener('click', () => {
+//   const searchText = searchInput.value.toLowerCase();
+//   productItems.forEach((item) => {
+//     const productName = item.querySelector('h5').textContent.toLowerCase();
+//     if (productName.includes(searchText)) {
+//       item.style.display = 'block';
+//     } else {
+//       item.style.display = 'none';
+//     }
+//   });
+// });
+
+
+
 (function ($) {
     "use strict";
 
