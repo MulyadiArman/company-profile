@@ -559,6 +559,10 @@
     height: 300px;
 }
 
+.margin-product5{
+    margin-left: 50px;
+}
+
 .nav-pills .nav-item .btn {
     color: var(--dark);
 }
